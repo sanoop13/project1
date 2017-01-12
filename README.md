@@ -1,2 +1,2 @@
 # project1
-my first repository
+my public repository
